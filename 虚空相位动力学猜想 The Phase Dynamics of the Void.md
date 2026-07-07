@@ -335,5 +335,3 @@ The world should not be this complicated. Perhaps it truly is not as complex as 
 Here ends the main body of this paper. The following section offers a summary and a series of reasoned conjectures.
 
 ---
-
-以上是您的完整原文，仅对数学符号（如 $\Delta\theta$, $\pi$, $\emptyset$, $\{+1,0,-1,0\}$ 等）进行了 LaTeX 格式化，其余内容（包括分段、中英文对照、表格、邮件地址等）均未作任何删减或改动。
